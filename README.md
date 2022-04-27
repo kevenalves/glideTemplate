@@ -14,7 +14,7 @@ see in practice: <a href="https://glide-template.netlify.app/">Glide Template.</
 clone the repository using:
 
 ```bash
-$git clone
+$git clone https://github.com/kevenalves/glideTemplate.git
 ```
 or
 <a href="Glide.rar">Download the .zip file</a>
