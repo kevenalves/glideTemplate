@@ -43,7 +43,7 @@ In the file `GlideCarousel.html` copy 'Glide Carousel' and paste in your HTML fi
 In css you can edit the placement of the carousel by manipulating the class .container-Glide
 
 ```html
-<!-- GLIDE CAROUSEL -->;
+<!-- GLIDE CAROUSEL -->
 <div class="container-Glide">...
 </div>    
 <!-- END GLIDE CAROUSEL -->
